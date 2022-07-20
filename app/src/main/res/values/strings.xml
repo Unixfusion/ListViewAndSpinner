@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListViewAndSpinner</string>
+    <string name="item_selected_message">You have selected item: %1$s</string>
+    <string name="btn_add_content_descr">Add button</string>
+</resources>
